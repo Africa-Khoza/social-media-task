@@ -1,0 +1,12 @@
+Hi Joe,
+
+We’re very excited to be working with you on making MobyFin safer and trustworthy for your customers. To understand how we can integrate our AML api into the app in a way that saves you time and money, we’d appreciate if you would assist us with some information.
+
+First of, could you kindly provide the types of transactions users will be performing on the app (user journeys would be helpful) and on which transactions you would like to perform AML checks, and of those checks which require immediate judgement and which don’t necessarily need immediate judgement. This will guide us on the effort needed, immediate judgement checks will require additional effort from both our side as well as yours to ensure a smooth integration at scale whereas delayed judgment checks will require less effort from both sides. 
+
+Additionally, could you kindly share the application’s monthly transaction data trends which would help us decide how much infrastructural resources we can allocate to your application while optimising operational costs. 
+
+We believe this will help us make decisions that will enable us to deliver a well integrated, timely and cost efficient solution for MobyFin. We’re excited to get started and help build a better MobyFin with you. 
+
+Assumptions:  * App name is called MobyFin.
+* Application has been already launched to market long enough to gather user transaction data trends. 
